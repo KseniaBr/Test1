@@ -1,2 +1,2 @@
 ## Link
-More Information about this [here](https://google.com)
+more information about this [here](https://google.com)
