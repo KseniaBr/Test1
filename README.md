@@ -23,3 +23,6 @@ zwei Leerzeichen nach Smiley --> macht dann untereinander
 | ---- | --- |
 | 4weeks | 6weeks |
 | easy | normal |
+
+: <-- linksbündig 
+rechtsbündig --> :   
