@@ -8,6 +8,5 @@ Here you can find may image [image](wolga.jpg)
 
 ## emojis
 :smile:  
-
-:book:
+:book:  
 ☀️
