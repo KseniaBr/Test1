@@ -14,4 +14,4 @@ zwei Leerzeichen nach Smiley --> macht dann untereinander
 
 ## Checkboxes
 - [X] Git and Github
-- [] CSS
+- [ ] CSS
