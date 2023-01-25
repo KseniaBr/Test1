@@ -21,4 +21,5 @@ zwei Leerzeichen nach Smiley --> macht dann untereinander
 ## tables
 | HTML | CSS |
 | ---- | --- |
+| 4weeks | 6weeks |
 | easy | normal |
