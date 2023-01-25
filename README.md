@@ -22,7 +22,7 @@ zwei Leerzeichen nach Smiley --> macht dann untereinander
 | HTML | CSS |
 | ---- | --- |
 | 4weeks | 6weeks |
-| easy | normal |
+| :easy | normal: |
 
 : <-- linksbündig  
 rechtsbündig --> :   
