@@ -9,4 +9,5 @@ Here you can find may image [image](wolga.jpg)
 ## emojis
 :smile:  
 :book:  
-☀️
+☀️  
+zwei Leerzeichen nach Smiley --> macht dann untereinander 
