@@ -11,3 +11,7 @@ Here you can find may image [image](wolga.jpg)
 :book:  
 ☀️  
 zwei Leerzeichen nach Smiley --> macht dann untereinander 
+
+## Checkboxes
+- [X] Git and Github
+- [] CSS
