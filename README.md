@@ -19,8 +19,8 @@ zwei Leerzeichen nach Smiley --> macht dann untereinander
 - [X] JavaSkript
 
 ## tables
-| HTML | CSS |:
-| ---- | --- |
+| HTML | CSS |
+| :---- | --- |
 | 4weeks | 6weeks |
 | easy | normal |
 
